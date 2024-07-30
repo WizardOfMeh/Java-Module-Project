@@ -6,7 +6,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Race race = new Race();
 
-
         for(int i = 0; i<3; i++) {
             int number = i+1;
             System.out.println("Введите название машины №" + number);
